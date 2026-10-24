@@ -2,6 +2,12 @@
 
 Een lokale AI-chat: praat met een taalmodel op je eigen pc, zonder cloud.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveChat](https://dravenlock.nl/video/DraveChat.jpg)](https://dravenlock.nl/video/DraveChat.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveChat.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: AI · versie 1.0.2*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
